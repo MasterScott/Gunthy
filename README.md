@@ -6,11 +6,20 @@ Credits from commit 5a2e1d1d18b8823bd5682b73eb18ba6b8810d531 to:
 
 # END USER INSTRUCTIONS
     
-- To start the GUI, put the webUI folder in your GUNBOT root
-- Do a `npm install` on this folder
+- To start the GUI, open a command console in this folder
+- Install node.js and do a `npm install` on this folder
 - Start it with node like `node app.js`
-- I will provide binaries at every release for people that wont use/install node
 - To connect to your webUI visit this link http://localhost:3000/listener/ 
+- If you use Chrome or another browser that doesnt allow self signed SSL certificates, visit this page and add an exception to the security warning you get on your screen:  https://127.0.0.1:5000/?gui=native 
+- Go back to http://localhost:3000/listener
+- Visit the configurator page and make your changes
+- Visit the View page and select exchange and the first pair on the list (i.e. select poloniex > BTC_XMR > press CHANGE button)
+- press START and look at your console values to fill with trading datas.
+- Enjoy 
+
+***********************************
+- To start without GUI: edit config.js with a text editor and then run the executable.
+- Enjoy
 
 # WebGUI informations for devs :
 
