@@ -9,7 +9,7 @@ Credits from commit 5a2e1d1d18b8823bd5682b73eb18ba6b8810d531 to:
 - To start the GUI, open a command console in this folder
 - Install node.js and do a `npm install` on this folder
 - Start it with node like `node app.js`
-- To connect to your webUI visit this link http://localhost:3000/listener/ 
+- To connect to your webUI visit this link http://127.0.0.1:3000/listener/ 
 - If you use Chrome or another browser that doesnt allow self signed SSL certificates, visit this page and add an exception to the security warning you get on your screen:  https://127.0.0.1:5000/?gui=native 
 - Go back to http://localhost:3000/listener
 - Visit the configurator page and make your changes
