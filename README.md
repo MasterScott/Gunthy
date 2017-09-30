@@ -1,4 +1,4 @@
-`Current Gunbot version : (v5.0.5 with WebGUI)`
+`Current Gunbot version : (v5.0.5.1 with WebGUI)`
 Credits from commit 5a2e1d1d18b8823bd5682b73eb18ba6b8810d531 to:
 - rdonadono
 - tandyuc
@@ -11,7 +11,7 @@ Credits from commit 5a2e1d1d18b8823bd5682b73eb18ba6b8810d531 to:
 - Start it with node like `node app.js`
 - To connect to your webUI visit this link http://127.0.0.1:3000/listener/ 
 - If you use Chrome or another browser that doesnt allow self signed SSL certificates, visit this page and add an exception to the security warning you get on your screen:  https://127.0.0.1:5000/?gui=native 
-- Go back to http://localhost:3000/listener
+- Go back to http://127.0.0.1:3000/listener
 - Visit the configurator page and make your changes
 - Visit the View page and select exchange and the first pair on the list (i.e. select poloniex > BTC_XMR > press CHANGE button)
 - press START and look at your console values to fill with trading datas.
