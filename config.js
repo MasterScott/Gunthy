@@ -964,7 +964,6 @@
             "secret": "",
             "passphrase": ""
         },
-        ,
         "kucoin": {
             "masterkey": "",
             "mastersecret": "",
