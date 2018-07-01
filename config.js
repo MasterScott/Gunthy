@@ -1,6 +1,6 @@
 {
     "pairs": {
-        "huobi": {
+        "kucoin": {
             
             "BTC-ETH": {
                 "enabled": true,
