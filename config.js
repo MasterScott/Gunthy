@@ -74,7 +74,6 @@
             
             "RT_ENABLED": true,
             "RT_MAXBAG_PROTECTION": 10,
-            "RT_SELL_BUYDOWN": 1,
             "RT_SELL_UP": 0.1,
             "RT_TREND_ENABLED": true,
             "RT_BUY_LEVEL": 0.8,
@@ -180,7 +179,6 @@
             
             "RT_ENABLED": true,
             "RT_MAXBAG_PROTECTION": 10,
-            "RT_SELL_BUYDOWN": 1,
             "RT_SELL_UP": 0.1,
             "RT_TREND_ENABLED": true,
             "RT_BUY_LEVEL": 0.8,
@@ -294,7 +292,6 @@
             
             "RT_ENABLED": true,
             "RT_MAXBAG_PROTECTION": 10,
-            "RT_SELL_BUYDOWN": 1,
             "RT_SELL_UP": 0.1,
             "RT_TREND_ENABLED": true,
             "RT_BUY_LEVEL": 0.8,
@@ -394,7 +391,6 @@
             
             "RT_ENABLED": true,
             "RT_MAXBAG_PROTECTION": 10,
-            "RT_SELL_BUYDOWN": 1,
             "RT_SELL_UP": 0.1,
             "RT_TREND_ENABLED": true,
             "RT_BUY_LEVEL": 0.8,
@@ -496,7 +492,6 @@
             
             "RT_ENABLED": true,
             "RT_MAXBAG_PROTECTION": 10,
-            "RT_SELL_BUYDOWN": 1,
             "RT_SELL_UP": 0.1,
             "RT_TREND_ENABLED": true,
             "RT_BUY_LEVEL": 0.8,
@@ -599,7 +594,6 @@
             
             "RT_ENABLED": true,
             "RT_MAXBAG_PROTECTION": 10,
-            "RT_SELL_BUYDOWN": 1,
             "RT_SELL_UP": 0.1,
             "RT_TREND_ENABLED": true,
             "RT_BUY_LEVEL": 0.8,
@@ -708,7 +702,6 @@
             
             "RT_ENABLED": true,
             "RT_MAXBAG_PROTECTION": 10,
-            "RT_SELL_BUYDOWN": 1,
             "RT_SELL_UP": 0.1,
             "RT_TREND_ENABLED": true,
             "RT_BUY_LEVEL": 0.8,
@@ -813,7 +806,6 @@
             
             "RT_ENABLED": true,
             "RT_MAXBAG_PROTECTION": 10,
-            "RT_SELL_BUYDOWN": 1,
             "RT_SELL_UP": 0.1,
             "RT_TREND_ENABLED": true,
             "RT_BUY_LEVEL": 0.8,
@@ -920,7 +912,6 @@
             
             "RT_ENABLED": true,
             "RT_MAXBAG_PROTECTION": 10,
-            "RT_SELL_BUYDOWN": 1,
             "RT_SELL_UP": 0.1,
             "RT_TREND_ENABLED": true,
             "RT_BUY_LEVEL": 0.8,
@@ -1027,7 +1018,6 @@
             
             "RT_ENABLED": true,
             "RT_MAXBAG_PROTECTION": 10,
-            "RT_SELL_BUYDOWN": 1,
             "RT_SELL_UP": 0.1,
             "RT_TREND_ENABLED": true,
             "RT_BUY_LEVEL": 0.8,
@@ -1134,7 +1124,6 @@
             
             "RT_ENABLED": true,
             "RT_MAXBAG_PROTECTION": 10,
-            "RT_SELL_BUYDOWN": 1,
             "RT_SELL_UP": 0.1,
             "RT_TREND_ENABLED": true,
             "RT_BUY_LEVEL": 0.8,
@@ -1244,7 +1233,6 @@
             
             "RT_ENABLED": true,
             "RT_MAXBAG_PROTECTION": 10,
-            "RT_SELL_BUYDOWN": 1,
             "RT_SELL_UP": 0.1,
             "RT_TREND_ENABLED": true,
             "RT_BUY_LEVEL": 0.8,
@@ -1350,7 +1338,6 @@
             
             "RT_ENABLED": true,
             "RT_MAXBAG_PROTECTION": 10,
-            "RT_SELL_BUYDOWN": 1,
             "RT_SELL_UP": 0.1,
             "RT_TREND_ENABLED": true,
             "RT_BUY_LEVEL": 0.8,
@@ -1456,7 +1443,6 @@
             
             "RT_ENABLED": true,
             "RT_MAXBAG_PROTECTION": 10,
-            "RT_SELL_BUYDOWN": 1,
             "RT_SELL_UP": 0.1,
             "RT_TREND_ENABLED": true,
             "RT_BUY_LEVEL": 0.8,
@@ -1559,7 +1545,6 @@
             
             "RT_ENABLED": true,
             "RT_MAXBAG_PROTECTION": 10,
-            "RT_SELL_BUYDOWN": 1,
             "RT_SELL_UP": 0.1,
             "RT_TREND_ENABLED": true,
             "RT_BUY_LEVEL": 0.8,
