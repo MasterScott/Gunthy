@@ -1732,11 +1732,19 @@
       "TOKEN":"YOURTOKEN",
       "chat_id":"123456789"
    },
-   "ws":{
-      "port":5001,
-      "clientport":3000,
-      "hostname":"127.0.0.1"
-   },
+   "ws": {
+        "port": 5001,
+        "clientport": 3001,
+        "hostname": "127.0.0.1"
+    },
+    "GUI": {
+        "enabled": true,
+        "start": true,
+        "port": 3000,
+        "https": false,
+        "key": "localhost.key",
+        "cert": "localhost.crt"
+    },
    "imap_listener":{
       "enabled":false,
       "authorized_froms":"[\"noreply@tradingview.com\"]",
