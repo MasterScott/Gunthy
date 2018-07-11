@@ -1718,7 +1718,6 @@
       "TV_STOPLOSS_PERCENTAGE":60,
       "TV_TRADING_LIMIT_ALLIN":false,
       "TV_MVTS":0.0001,
-      "TG_TEST":false,
       "RETRY_TV_ORDER":false,
       "VERBOSE":true,
       "WATCH_MODE":false,
@@ -1727,6 +1726,8 @@
       "withdraw_address":"YOURBTCADDRESSHERE",
       "withdraw_threshold":0.5,
       "TELEGRAM_ENABLED":false,
+      "TG_ORDER_TIMEOUT": 0,
+      "TG_TEST":false,
       "TELEGRAM_NICK":"Gunbot",
       "TOKEN":"YOURTOKEN",
       "chat_id":"123456789"
