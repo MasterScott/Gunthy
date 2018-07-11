@@ -1739,7 +1739,7 @@
     },
     "GUI": {
         "enabled": true,
-        "start": true,
+        "start": false,
         "port": 3000,
         "https": false,
         "key": "localhost.key",
