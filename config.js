@@ -116,6 +116,9 @@
          "SELL_RANGE":0.1,
          "TSSL_TARGET_ONLY":true,
 		 
+		 "TAKE_PROFIT": false,
+		 "TP_RANGE": 0.5,
+		 
          "PP_BUY":0,
          "PP_SELL":99999
       },
@@ -224,6 +227,9 @@
          "SELL_RANGE":0.1,
          "TSSL_TARGET_ONLY":true,
 		 
+		 "TAKE_PROFIT": false,
+		 "TP_RANGE": 0.5,
+		 
          "PP_BUY":0,
          "PP_SELL":99999
       },
@@ -331,6 +337,9 @@
          "SELL_RANGE":0.1,
          "TSSL_TARGET_ONLY":true,
 		 
+		 "TAKE_PROFIT": false,
+		 "TP_RANGE": 0.5,
+		 
          "PP_BUY":0,
          "PP_SELL":99999
       },
@@ -437,6 +446,9 @@
          "SELLLVL2":2,
          "SELLLVL3":70,
          "SELLLVL":1,
+		 
+		 "TAKE_PROFIT": false,
+		 "TP_RANGE": 0.5,
 		 
          "PP_BUY":0,
          "PP_SELL":99999
@@ -547,7 +559,10 @@
 		 
          "BUY_RANGE":0.1,
          "SELL_RANGE":0.1,
-         "TSSL_TARGET_ONLY":true
+         "TSSL_TARGET_ONLY":true,
+		 
+		 "TAKE_PROFIT": false,
+		 "TP_RANGE": 0.5
       },
       "tsa":{
          "BUY_METHOD":"tsa",
@@ -653,6 +668,9 @@
          "BUY_RANGE":0.1,
          "SELL_RANGE":0.1,
          "TSSL_TARGET_ONLY":true,
+		 
+		 "TAKE_PROFIT": false,
+		 "TP_RANGE": 0.5,
 		 
          "PP_BUY":0,
          "PP_SELL":99999
@@ -760,8 +778,11 @@
 		 
          "BUY_RANGE":0.1,
          "SELL_RANGE":0.1,
+		 "TSSL_TARGET_ONLY":true,
 		 
-         "TSSL_TARGET_ONLY":true,
+		 "TAKE_PROFIT": false,
+		 "TP_RANGE": 0.5,
+		 
          "PP_BUY":0,
          "PP_SELL":99999
       },
@@ -870,6 +891,9 @@
          "BUY_RANGE":0.1,
          "SELL_RANGE":0.1,
          "TSSL_TARGET_ONLY":true,
+		 
+		 "TAKE_PROFIT": false,
+		 "TP_RANGE": 0.5,
 		 
          "PP_BUY":0,
          "PP_SELL":99999
@@ -980,6 +1004,9 @@
          "SELL_RANGE":0.1,
          "TSSL_TARGET_ONLY":true,
 		 
+		 "TAKE_PROFIT": false,
+		 "TP_RANGE": 0.5,
+		 
          "PP_BUY":0,
          "PP_SELL":99999
       },
@@ -1088,6 +1115,9 @@
          "BUY_RANGE":0.1,
          "SELL_RANGE":0.1,
          "TSSL_TARGET_ONLY":true,
+		 
+		 "TAKE_PROFIT": false,
+		 "TP_RANGE": 0.5,
 		 
          "PP_BUY":0,
          "PP_SELL":99999
@@ -1198,6 +1228,9 @@
          "SELL_RANGE":0.1,
          "TSSL_TARGET_ONLY":true,
 		 
+		 "TAKE_PROFIT": false,
+		 "TP_RANGE": 0.5,
+		 
          "PP_BUY":0,
          "PP_SELL":99999
       },
@@ -1306,6 +1339,10 @@
          "BUY_RANGE":0.1,
          "SELL_RANGE":0.1,
          "TSSL_TARGET_ONLY":true,
+		 
+		 "TAKE_PROFIT": false,
+		 "TP_RANGE": 0.5,
+		 
          "PP_BUY":0,
          "PP_SELL":99999
       },
@@ -1413,6 +1450,9 @@
          "BUY_RANGE":0.1,
          "SELL_RANGE":0.1,
          "TSSL_TARGET_ONLY":true,
+		 
+		 "TAKE_PROFIT": false,
+		 "TP_RANGE": 0.5,
 		 
          "PP_BUY":0,
          "PP_SELL":99999
@@ -1523,6 +1563,9 @@
          "SELL_RANGE":0.1,
          "TSSL_TARGET_ONLY":true,
 		 
+		 "TAKE_PROFIT": false,
+		 "TP_RANGE": 0.5,
+		 
          "PP_BUY":0,
          "PP_SELL":99999
       },
@@ -1630,6 +1673,9 @@
          "BUY_RANGE":0.1,
          "SELL_RANGE":0.1,
          "TSSL_TARGET_ONLY":true,
+		 
+		 "TAKE_PROFIT": false,
+		 "TP_RANGE": 0.5,
 		 
          "PP_BUY":0,
          "PP_SELL":99999
