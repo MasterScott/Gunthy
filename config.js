@@ -1686,57 +1686,66 @@
          "masterkey":"",
          "mastersecret":"",
          "key":"",
-         "secret":""
+         "secret":"",
+         "delay": 1
       },
       "poloniex":{
          "masterkey":"",
          "mastersecret":"",
          "key":"",
-         "secret":""
+         "secret":"",
+         "delay": 1
       },
       "kraken":{
          "masterkey":"",
          "mastersecret":"",
          "key":"",
-         "secret":""
+         "secret":"",
+         "delay": 1
       },
       "cryptopia":{
          "masterkey":"",
          "mastersecret":"",
          "key":"",
-         "secret":""
+         "secret":"",
+         "delay": 1
       },
       "bitfinex":{
          "masterkey":"",
          "mastersecret":"",
          "key":"",
-         "secret":""
+         "secret":"",
+         "delay": 1
       },
       "binance":{
          "masterkey":"",
          "mastersecret":"",
          "key":"",
-         "secret":""
+         "secret":"",
+         "delay": 1
       },
       "cex":{
          "masterkey":"",
          "mastersecret":"",
          "key":"",
          "secret":"",
-         "clientId":""
+         "clientId":"",
+         "delay": 1
       },
       "gdax":{
          "masterkey":"",
          "mastersecret":"",
          "key":"",
          "secret":"",
-         "passphrase":""
+         "passphrase":"",
+         "delay": 1
       },
       "kucoin":{
          "masterkey":"",
          "mastersecret":"",
          "key":"",
-         "secret":""
+         "secret":"",
+         "delay": 1
       }
    },
    "bot":{
