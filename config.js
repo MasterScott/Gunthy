@@ -1749,7 +1749,6 @@
       }
    },
    "bot":{
-      "GUI":true,
       "debug":false,
       "BEST_CURRENCIES":false,
       "BOT_DELAY":1,
