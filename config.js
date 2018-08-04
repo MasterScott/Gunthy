@@ -1820,6 +1820,7 @@
       "TV_STOPLOSS_PERCENTAGE":60,
       "TV_TRADING_LIMIT_ALLIN":false,
       "TV_MVTS":0.0001,
+      "TV_GB": false,
       "RETRY_TV_ORDER":false,
       "VERBOSE":true,
       "WATCH_MODE":false,
