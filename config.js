@@ -1843,7 +1843,7 @@
     "GUI": {
         "enabled": true,
         "start": false,
-        "port": 3000,
+        "port": 5000,
         "https": false,
         "key": "localhost.key",
         "cert": "localhost.crt"
