@@ -1797,6 +1797,7 @@
       }
    },
    "bot":{
+      "json_output": "./json",
       "debug":false,
       "BEST_CURRENCIES":false,
       "BOT_DELAY":1,
