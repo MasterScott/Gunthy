@@ -1843,10 +1843,20 @@
     "GUI": {
         "enabled": true,
         "start": false,
-        "port": 5000,
+        "port": 3000,
         "https": false,
         "key": "localhost.key",
-        "cert": "localhost.crt"
+        "cert": "localhost.crt",
+        "networktraffic": false,
+        "authentication": {
+            "login": true,
+            "twoFA": true
+        },
+        "notifications": {
+            "trade": true,
+            "callback": false,
+            "error": true
+        }
     },
    "imap_listener":{
       "enabled":false,
