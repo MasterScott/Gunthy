@@ -1838,20 +1838,20 @@
    },
    "ws": {
         "port": 5001,
-        "clientport": 3001,
+        "clientport": 3000,
         "hostname": "127.0.0.1"
     },
     "GUI": {
         "enabled": true,
         "start": false,
-        "port": 3000,
+        "port": 5000,
         "https": false,
         "key": "localhost.key",
         "cert": "localhost.crt",
         "networktraffic": false,
         "authentication": {
             "login": true,
-            "twoFA": true
+            "twoFA": false
         },
         "notifications": {
             "trade": true,
