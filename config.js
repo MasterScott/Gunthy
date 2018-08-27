@@ -1832,6 +1832,7 @@
       "TELEGRAM_ENABLED":false,
       "TG_ORDER_TIMEOUT": 0,
       "TG_TEST":false,
+      "TG_PL_ONLY": false,
       "TELEGRAM_NICK":"Gunbot",
       "TOKEN":"YOURTOKEN",
       "chat_id":"123456789"
