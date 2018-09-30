@@ -1,5 +1,5 @@
 `Current Gunbot version : (v5.0.5.5 with WebGUI)`
-Credits from commit 5a2e1d1d18b8823bd5682b73eb18ba6b8810d531 to:
+Credits from commit  5a2e1d1d18b8823bd5682b73eb18ba6b8810d531 to:
 - rdonadono
 - tandyuc
 - 3kynox
