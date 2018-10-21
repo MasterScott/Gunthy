@@ -1985,7 +1985,6 @@
 		"period_storage_ticker": 2000,
 		"timeout_buy": 59000,
 		"timeout_sell": 60000,
-		"PYRAMID_BUY": false,
 		"TRADING_LIMIT_BUY_PYRAMID": 50,
 		"TV_GAIN": 0.6,
 		"TV_TRADING_LIMIT_BUY": 50,
