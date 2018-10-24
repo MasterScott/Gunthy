@@ -2552,7 +2552,7 @@
 			"STOCH_D": 3,
 			"STOCH_K": 14,
 			"STOCH_METHOD": "oscillator",
-			"STOCHRSI_ENABLED": false,
+			"STOCHRSI_ENABLED": true,
 			"STOCHRSI_BUY_LEVEL": 0.1,
 			"STOCHRSI_SELL_LEVEL": 0.9,
 			"STOCHRSI_LENGTH": 14,
