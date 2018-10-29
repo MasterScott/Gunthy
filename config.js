@@ -1,6 +1,6 @@
 {
 	"pairs": {
-		
+
 	},
 	"strategies": {
 		"ADX": {
@@ -13,6 +13,7 @@
 			"GAIN": 0.5,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -150,6 +151,7 @@
 			"GAIN": 0.5,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -287,6 +289,7 @@
 			"GAIN": 0.5,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -419,6 +422,7 @@
 			"GAIN": 0.5,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -556,6 +560,7 @@
 			"GAIN": 0.5,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -693,6 +698,7 @@
 			"GAIN": 0.5,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -830,6 +836,7 @@
 			"GAIN": 0.5,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -967,6 +974,7 @@
 			"GAIN": 0.5,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -1104,6 +1112,7 @@
 			"GAIN": 0.5,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -1241,6 +1250,7 @@
 			"GAIN": 0.5,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -1378,6 +1388,7 @@
 			"GAIN": 0.5,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -1515,6 +1526,7 @@
 			"GAIN": 0.5,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -1652,6 +1664,7 @@
 			"GAIN": 0.5,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -1789,6 +1802,7 @@
 			"GAIN": 0.5,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -1926,6 +1940,7 @@
 			"GAIN": 0.5,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -2063,6 +2078,7 @@
 			"GAIN": 0.5,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -2200,6 +2216,7 @@
 			"GAIN": 0.5,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -2337,6 +2354,7 @@
 			"GAIN": 1,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -2474,6 +2492,7 @@
 			"GAIN": 0.5,
 
 			"GAIN_PROTECTION": true,
+			"NBA": 0,
 
 			"BUYLVL1": 0.6,
 			"BUYLVL2": 2,
@@ -2603,7 +2622,7 @@
 		}
 	},
 	"exchanges": {
-		
+
 	},
 	"bot": {
 		"json_output": "./json",
